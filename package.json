@@ -10,7 +10,7 @@
   "author": "Grant Thompson",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.7.4",
     "netlify-lambda": "^1.6.3"
   }
